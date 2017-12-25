@@ -1,0 +1,26 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+/node_modules
+bundle.js
+npm-debug.log
+.DS_Store
+
+# IntelliJ
+*.iml
+/.idea
+.gitignore
+config/
+db/
+package.json
+repositories/
+routes/
+schemas/
+server.js
+.babelrc
+LICENSE.MD
+index.html
+package-lock.json
+src/
+style/
+test/
+webpack.config.js
